@@ -134,10 +134,24 @@
 
 - 8.5 Makine Öğrenmesi Araçları
 
-- 8.6 Makine Öğrenmesi Metodları
-	- Lojistik Regresyon
-	- Lineer Regresyon
-	- Karar Ağaçları
+# 9. Makine Öğrenmesi Metodları
+
+- 9.1 Regresyon Nedir?
+
+- 9.2 Lineer Regresyon
+	- Basit Lineer Regresyon
+	- İçeri Aktarma
+	
+- 9.3 Lojistik Regresyon
+	- asd
+	- asd
+
+- 9.4 Karar Ağaçları
+	- Karar Ağaçları Nedir?
+	- Terminoloji
+	- Karar Ağaçlarınon Avantajları
+	- Karar Ağaçlarınon Dezvantajları
+	- Karar Ağaçları Egzersizi
 
 
 # Workshop
